@@ -1,0 +1,1 @@
+ENOENT: no such file or directory, open '/home/rock64/Documents/c-and-c-plus-plus/Intro/Project 1/Ant.cpp,~/Documents/c-and-c-plus-plus/Intro/Project 1/Ant.hpp,~/Documents/c-and-c-plus-plus/Intro/Project 1/Board.cpp,~/Documents/c-and-c-plus-plus/Intro/Project 1/Board.hpp,~/Documents/c-and-c-plus-plus/Intro/Project 1/main.cpp'
